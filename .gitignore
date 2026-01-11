@@ -15,3 +15,12 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Data
+data/
+outputs/
+
+# Power BI temp files
+*.pbix.lock
+
+
